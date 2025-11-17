@@ -28,7 +28,7 @@ Deploy n8n on your server with just **one command**.
 
 ## 📥 Download the Script
 ```bash
-wget https://raw.githubusercontent.com/USERNAME/n8n-auto-installer/main/install.sh
+wget -O install.sh https://raw.githubusercontent.com/aminsg/N8N-Auto-installer-script/main/install.sh
 chmod +x install.sh
 ```
 
